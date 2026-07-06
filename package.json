@@ -3,5 +3,25 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "mongoose": "^9.2.4"
-  }
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raunakyaadav/insta-login-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Raunakyaadav/insta-login-backend/issues"
+  },
+  "homepage": "https://github.com/Raunakyaadav/insta-login-backend#readme"
 }
