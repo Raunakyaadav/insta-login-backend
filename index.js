@@ -27,7 +27,7 @@ server.post("/user/login",async (req,res)=>{
 try {
     
     console.log(req.body) ;
-    return;
+    
  
     const user = await userModel.create(
         {
